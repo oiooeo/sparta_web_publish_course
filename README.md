@@ -1,4 +1,4 @@
-# web_publish_course
+# sparta_web_publish_course
 
 강의자료 받아서 하면 뉴스 기사도 안 뜨고 스와이프 항목들도 이상하게 뜨길래.. </br>
 선생님 자료 뽀려왔습니다......... </br>
