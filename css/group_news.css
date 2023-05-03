@@ -45,6 +45,11 @@
 .sc_newscast .list_view {
   overflow: hidden;
   height: 260px;
+  width: 100%;
+}
+
+._NM_NEWSSTAND_ARTICLE_CONTAINER {
+  padding-left: 165px;
 }
 
 .sc_newscast .list_view .option_area {
@@ -54,6 +59,10 @@
   background-color: #f7f9fa;
   border: 1px solid #dae1e6;
   border-width: 0 1px;
+  z-index: 9;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .sc_newscast .list_view .list_option_wrap {
@@ -126,7 +135,7 @@
 }
 
 .sc_newscast .list_view .media_box:after {
-  content: "";
+  content: '';
   display: table;
   table-layout: fixed;
   clear: both;
@@ -162,7 +171,7 @@
   background-position: -408px -148px;
   background-repeat: no-repeat;
   vertical-align: top;
-  content: "";
+  content: '';
   margin: 5px 3px 0 0;
 }
 

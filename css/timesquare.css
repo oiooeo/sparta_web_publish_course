@@ -7,6 +7,10 @@
   letter-spacing: -0.25px;
 }
 
+.timesquareSwiper {
+  overflow: hidden;
+}
+
 .sc_timesquare .card_wrap {
   /* overflow: hidden; */
   height: 47px;
@@ -39,7 +43,7 @@
   background-position: -287px -337px;
   background-repeat: no-repeat;
   vertical-align: top;
-  content: "";
+  content: '';
   margin: 7px 8px 6px;
 }
 
@@ -50,7 +54,7 @@
   background-position: -438px -385px;
   background-repeat: no-repeat;
   vertical-align: top;
-  content: "";
+  content: '';
   margin: 7px 8px 6px;
 }
 
@@ -122,7 +126,7 @@
 }
 
 .sc_timesquare .card_stock .stock_box:before {
-  content: "";
+  content: '';
   display: inline-block;
   width: 1px;
   height: 12px;
@@ -138,7 +142,7 @@
   background-position: -420px -302px;
   background-repeat: no-repeat;
   vertical-align: top;
-  content: "";
+  content: '';
   margin-right: 7px;
 }
 
@@ -169,7 +173,7 @@
 }
 
 .sc_timesquare .card_stock .rate:before {
-  content: "";
+  content: '';
   margin-right: 3px;
 }
 
